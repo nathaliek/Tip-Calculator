@@ -6,3 +6,5 @@ Completed User Stories:
 - user can typed the bill the received
 - user can choose the %tip he/she wants to leave
 - can can see the calculated tip + the final bill amount
+
+<img src="">
