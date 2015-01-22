@@ -8,4 +8,6 @@ Completed User Stories:
 - user can choose the %tip he/she wants to leave
 - can can see the calculated tip + the final bill amount
 
+
+Demo
 <img src="https://raw.githubusercontent.com/nathaliek/Tip-Calculator/master/Calculate%20yout%20bill.gif">
